@@ -1,8 +1,8 @@
 
-Deteksi Masker - v2 2022-12-15 7:37am
+Deteksi Masker - v3 2022-12-15 8:07am
 ==============================
 
-This dataset was exported via roboflow.com on December 15, 2022 at 12:40 AM GMT
+This dataset was exported via roboflow.com on December 15, 2022 at 1:10 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
